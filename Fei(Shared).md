@@ -36,7 +36,7 @@ In this way, this consistent pressure scales can provide reliable baseline for c
 ##### Why do we need consistent (universal) pressure scales?
 - to better understand the composition and behavior of different layers of the Earth through accurate measurement of pressure and temperature at different depths.
 - high P-T experiments are conducted worldwide and use of different P-T scales would produce contradictory results.
-- - leads to *different estimates of density deficit in the inner core* thus, different interpretations of material behavior in the inner core.
+- leads to *different estimates of density deficit in the inner core* thus, different interpretations of material behavior in the inner core.
 
 ##### What do we have right now?
 - **synchrotron radiation, ruby luminescent pressure gauge?**
@@ -56,7 +56,9 @@ In this way, this consistent pressure scales can provide reliable baseline for c
 - Jamieson and Holmes Pt scale predict higher pressures than any other metal pressure scales.
 - Formula used:
 1.the third order Birth-Murnaghan equation 
+
 2.Vinet equation of state
+
 3.Mie-Gruneisen relation
 
 ##### What did they do?
