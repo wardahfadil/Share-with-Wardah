@@ -11,8 +11,11 @@ By differentiation of the equation, researchers obtain equations of the entropy,
 ![Helmholtz Free Energy Eqn](https://github.com/wardahfadil/UROP_notes/blob/master/Dorogokupets2007/Helmholtz%20Free%20Energy%20Eqn.jpg)
   -
 - Debye model(F_(qh)) in Helmholtz free energy equation: it is used to describe the quasiharmonic phonon part of the Helmholtz free energy. Again, researchers derive the equations of the entropy, pressure, isothermal bulk modulus, and slope of pressure at constant volume.
+
 ![Debye Model](https://github.com/wardahfadil/UROP_notes/blob/master/Dorogokupets2007/DebyeModel.jpg)
+
 - The volume dependence of the Grüneisen parameter γ is taken from Al'tshuler et al.
+
 ![Gruneisen Parameter](https://github.com/wardahfadil/UROP_notes/blob/master/Dorogokupets2007/GruneisenParameter.jpg)
 
 ### Calculations of the thermodynamic functions of MgO, Au and Pt in high P-T conditions
@@ -27,20 +30,20 @@ By differentiation of the equation, researchers obtain equations of the entropy,
 - Direct comparisons with Fei et al. of EoSs of Au, Pt, and MgO are also conducted.
 
 ### Discussion of the result
-#Au
+####Au
 - The EoS of Au have varied K' (between 5 and 6.12). 
 But the quasihydrostatic ruby pressure calibration would have been more suitable than the non-hydrostatic scale.
 So the K' would be increased to 5.8.
 - Researchers also have very low parameter q, which is in agreement with Anderson et al.
 - The EoS of Au in reference has a volume function dependent with γ, as it takes into account of the intrinsic anharmonicity. This also agrees well with the new EoS of Au.
 
-# MgO
+#### MgO
 - EMGD-EoS agrees well with previous studies at ambient condition, but not at high temperature condition.
 
-# Pt
+#### Pt
 - Pt shows the largest deviation from Debye-like behavior.
 
-# Reasons for the differences between EoS of MgO, Au, and Pt.
+#### Reasons for the differences between EoS of MgO, Au, and Pt.
 - The result has opposite result with Mao et al. ruby scale, which is the self-consensus measurement of the EoS of MgO by combining Brillouin and X-ray diffraction measurement up to 55GPa.
 The EoS was calculated a ruby scale in that research, which is close to the calibration of MaO et al. up to 55GPa.
 But the new EoS also agrees Brillouin measurement with a small systematic difference in pressure on a room-temperature isotherm.
@@ -50,7 +53,7 @@ Shock-wave data, experimental information on heat capacity, bulk moduli, volume 
 They have significant effect on periclase and platinum results.
 However, their effect are huge only at low temperature.
 
-# Fei's study
+#### Fei's study
 - Fei did correct the previous versions of EoS of Au and Pt, confirm the quasihydrostatic ruby scales.
 However, they still have questions about high temperature formulation of the EoS of Au and Pt.
 They did not consider additional contributions mentioned above, so the calculated parameters do not agree better with experimental measurements than former EoS. 
