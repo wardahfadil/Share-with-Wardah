@@ -1,5 +1,5 @@
 # Dorogokupets 2007 notes
-### What this experiments is about?
+### What this experiment is about?
 - This research simplifies the equations of states of Au, Pt, MgO, NaCl-B1, and NaCl-B2 on the basis of expanded Mie–Grüneisen-Debye(EMGD) model.
 The research also reveals that the form of volume dependence of the Grüneisen parameter as well as the contribution of intrinsic anharmonicity are critical in construction of the EoS.
 The cross-comparison of different EoS of materials with be conducted.
@@ -8,8 +8,12 @@ The cross-comparison of different EoS of materials with be conducted.
 Researchers exceed the bound of the classical Mie-Grüneisen-Debye EoS and take into account the additional contributions of intrinsic anharmonicity and free electrons in the Helmholtz free energy and obtain the new EoS.
 - Helmholtz free energy equation: it describes both quasiharmonic part of the Helmholtz free energy and the intrinsic anharmonicity and electronic contribution.
 By differentiation of the equation, researchers obtain equations of the entropy, pressure, isothermal bulk modulus, and slope of pressure at constant volume.
+![Helmholtz Free Energy Eqn](https://github.com/wardahfadil/UROP_notes/blob/master/Dorogokupets2007/Helmholtz%20Free%20Energy%20Eqn.jpg)
+  -
 - Debye model(F_(qh)) in Helmholtz free energy equation: it is used to describe the quasiharmonic phonon part of the Helmholtz free energy. Again, researchers derive the equations of the entropy, pressure, isothermal bulk modulus, and slope of pressure at constant volume.
+![Debye Model](https://github.com/wardahfadil/UROP_notes/blob/master/Dorogokupets2007/DebyeModel.jpg)
 - The volume dependence of the Grüneisen parameter γ is taken from Al'tshuler et al.
+![Gruneisen Parameter](https://github.com/wardahfadil/UROP_notes/blob/master/Dorogokupets2007/GruneisenParameter.jpg)
 
 ### Calculations of the thermodynamic functions of MgO, Au and Pt in high P-T conditions
 - Researchers provide a table of parameters of the EoS for MgO, Au and Pt with the current EMGD EoS.
@@ -36,7 +40,7 @@ So the K' would be increased to 5.8.
 # Pt
 - Pt shows the largest deviation from Debye-like behavior.
 
-# reasons for the differences between EoS of MgO, Au, and Pt.
+# Reasons for the differences between EoS of MgO, Au, and Pt.
 - The result has opposite result with Mao et al. ruby scale, which is the self-consensus measurement of the EoS of MgO by combining Brillouin and X-ray diffraction measurement up to 55GPa.
 The EoS was calculated a ruby scale in that research, which is close to the calibration of MaO et al. up to 55GPa.
 But the new EoS also agrees Brillouin measurement with a small systematic difference in pressure on a room-temperature isotherm.
