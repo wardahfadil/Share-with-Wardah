@@ -1,5 +1,5 @@
 ###Ne (Table 1)
-Temperature (K)|Au Pressure(GPa) | Volume(Å3)/at	 
+Temperature (K)|Ne Pressure(GPa) | Volume(Å3)/at	 
 :---------------:|:-----------------:|:-------------:
 298|4.53 |13.69743329
 298|7.55 |12.31533725
